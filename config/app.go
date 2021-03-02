@@ -1,5 +1,6 @@
 package config
 
 type App struct {
-	PokerRanks []string
+	ServerAddress string
+	PokerRanks    []string
 }

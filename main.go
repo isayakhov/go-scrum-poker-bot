@@ -1,3 +1,5 @@
+//+build !test
+
 package main
 
 import (
@@ -46,5 +48,5 @@ func main() {
 		sessionStorage,
 		[]server.Middleware{server_middleware.Recover(logger), server_middleware.Log(logger), server_middleware.Json},
 	)
-	app.Serve(config.Slack.ServerAddress)
+	app.Serve(config.App.ServerAddress)
 }
