@@ -1,9 +1,9 @@
 # Go Scrum Poker Bot
 
-[![build](https://github.com/isayakhov/duty-schedule-bot/workflows/Linters%20And%20Tests/badge.svg)](https://github.com/isayakhov/duty-schedule-bot/blob/main/.github/workflows/lint-and-tests.yml)
-[![codecov](https://codecov.io/gh/isayakhov/duty-schedule-bot/branch/main/graph/badge.svg?token=7DVLEWCKQR)](https://codecov.io/gh/isayakhov/duty-schedule-bot)
-[![code_quality](https://www.code-inspector.com/project/18495/status/svg)](https://frontend.code-inspector.com/public/project/18495/duty-schedule-bot/dashboard)
-[![code_score](https://www.code-inspector.com/project/18495/score/svg)](https://frontend.code-inspector.com/public/project/18495/duty-schedule-bot/dashboard)
+[![build](https://github.com/isayakhov/go-scrum-poker-bot/workflows/Linters%20And%20Tests/badge.svg)](https://github.com/isayakhov/go-scrum-poker-bot/blob/master/.github/workflows/lint-and-tests.yml)
+[![codecov](https://codecov.io/gh/isayakhov/go-scrum-poker-bot/branch/master/graph/badge.svg?token=GGJ61UJ6T3)](https://codecov.io/gh/isayakhov/go-scrum-poker-bot)
+[![code_quality](https://www.code-inspector.com/project/19706/status/svg)](https://frontend.code-inspector.com/project/19706/dashboard)
+[![code_score](https://www.code-inspector.com/project/19706/score/svg)](https://frontend.code-inspector.com/project/19706/dashboard)
 
 ## What is this?
 
