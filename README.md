@@ -2,8 +2,8 @@
 
 [![build](https://github.com/isayakhov/go-scrum-poker-bot/workflows/Lint,%20Tests,%20Build/badge.svg)](https://github.com/isayakhov/go-scrum-poker-bot/blob/master/.github/workflows/lint-tests-build.yml)
 [![codecov](https://codecov.io/gh/isayakhov/go-scrum-poker-bot/branch/master/graph/badge.svg?token=GGJ61UJ6T3)](https://codecov.io/gh/isayakhov/go-scrum-poker-bot)
-[![code_quality](https://www.code-inspector.com/project/19706/status/svg#1)](https://frontend.code-inspector.com/project/19706/dashboard)
-[![code_score](https://www.code-inspector.com/project/19706/score/svg#1)](https://frontend.code-inspector.com/project/19706/dashboard)
+[![code_quality](https://api.codiga.io/project/19706/score/svg)](https://app.codiga.io/project/19706/dashboard)
+[![code_score](https://api.codiga.io/project/19706/status/svg)](https://app.codiga.io/project/19706/dashboard)
 
 ## What is this?
 
